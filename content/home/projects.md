@@ -10,7 +10,9 @@ headless: true
 weight: 20
 
 title: ur-scape Training Platform
-subtitle: 'ur-scape is an open-source spatial planning tool designed to support sustainable futures in rapidly developing urban and rural regions where data is often difficult to access and uneven in quality, and where development needs are especially urgent and challenging. ur-scape does this by bringing diverse kinds of data together and encouraging people to explore the data intuitively and in real-time.'
+subtitle: 'ur-scape is an open-source spatial planning tool designed to support sustainable futures in rapidly developing urban and rural regions where data is often difficult to access and uneven in quality, and where development needs are especially urgent and challenging. ur-scape does this by bringing diverse kinds of data together and encouraging people to explore the data intuitively and in real-time. 
+
+The following videos and introductory exercises will provide users with a good theoretical and technical basis of the platform and help understand the fundamentals of data management and analytical tools of ur-scape.'
 
 content:
   # Page type to display. E.g. project.
@@ -32,7 +34,7 @@ content:
     tag: Setting Up
   - name: Data Management
     tag: Data Management
-  - name: Tools Tutorials
+  - name: Tools
     tag: Tools Tutorials
   - name: Example Exercises
     tag: Example Exercises

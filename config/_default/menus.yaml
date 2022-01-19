@@ -4,20 +4,21 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Everything
-    url: '#about'
+
+  - name: Courses
+    url: '#courses'
     weight: 10
-  - name: ur-scape
-    url: 'https://urs.sec.sg/'
+  - name: Enroll
+    url: 'https://forms.office.com/r/pLm1JXyiFd'
     weight: 20
   - name: Wiki
     url: 'https://ur-scape.sec.sg/en/home'
-    weight: 40
-  - name: Self Guided Courses
-    url: '#project'
     weight: 30
-  - name: Enroll
-    url: '#talks'
+  - name: Downloads
+    url: 'https://urs.sec.sg/category/downloads/'
+    weight: 60   
+  - name: UR Sytems
+    url: 'https://urs.sec.sg/#filter=.home'
     weight: 50
   - name: Contact
     url: '#contact'
